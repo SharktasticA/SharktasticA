@@ -1,16 +1,48 @@
-## Hi there 👋
+Hi, I'm a full-stack software engineer based in Pontypridd, Wales!
 
-<!--
-**SharktasticA/SharktasticA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=c" alt="c" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=unity" alt="unity" width="32" height="32"/>
+<!--<img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="32" height="32"/>-->
+<img src="https://skillicons.dev/icons?i=py" alt="python" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="32" height="32"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=qt" alt="qt" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=gtk" alt="gtk" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=php" alt="php" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=html" alt="html5" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=css" alt="css3" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="32" height="32"/>
+<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=emacs" alt="emacs" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=cmake" alt="cmake" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=git" alt="git" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=powershell" alt="powershell" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=latex" alt="latex" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="32" height="32"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+* MSc by Research Computer Science (pass)
+* BSc Computer Games Development (first-class honours)
+
+## Hobbies
+
+* I'm interested in vintage IBM technology and products like ThinkPads, early PCs and PS/2s, terminals, mainframes, typewriters and keypunches. I am the author of [Admiral Shark's Keyboards](https://sharktastica.co.uk/), a website dedicated to IBM keyboards as such as the famous Model M family. On it, I write articles, wikis, and guides to preserve information about them and help others interested in them. I sometimes even exhibit parts of my collection at computer keyboard expos/meetups.
+
+* I maintain a family of Linux distributions called SHORK, designed to run on vintage hardware. [SHORK 486](https://github.com/SharktasticA/SHORK-486) and [SHORK DISKETTE](https://github.com/SharktasticA/SHORK-DISKETTE) are the current members. I also wrote lightweight C-based tools for them, such as [shorkfetch](https://github.com/SharktasticA/shorkfetch) and [shorkdir](https://github.com/SharktasticA/shorkdir). The aim is to provide more alternative uses for vintage hardware, hopefully keeping them from landfills for longer. Even if it just saves one PC, it's a success for me!
