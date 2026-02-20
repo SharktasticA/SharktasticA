@@ -2,39 +2,7 @@ Hi, I'm a full-stack software engineer based in Pontypridd, Wales!
 
 ## Skills
 
-<img src="https://skillicons.dev/icons?i=c" alt="c" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=unity" alt="unity" width="32" height="32"/>
-<!--<img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="32" height="32"/>-->
-<img src="https://skillicons.dev/icons?i=py" alt="python" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="32" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="32" height="32"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=qt" alt="qt" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=gtk" alt="gtk" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=php" alt="php" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="32" height="32"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=html" alt="html5" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=css" alt="css3" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=js" alt="javascript" width="32" height="32"/>
-<img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=postman" alt="postman" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=emacs" alt="emacs" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=cmake" alt="cmake" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=git" alt="git" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=docker" alt="docker" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=bash" alt="bash" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=powershell" alt="powershell" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=latex" alt="latex" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="32" height="32"/>
-<img src="https://skillicons.dev/icons?i=linux" alt="linux" width="32" height="32"/>
+<img src="https://skillicons.dev/icons?i=c" alt="c" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=cs" alt="csharp" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=dotnet" alt="dotnet" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=unity" alt="unity" width="32" height="32"/> <!--<img src="https://skillicons.dev/icons?i=unreal" alt="unreal" width="32" height="32"/>--> <img src="https://skillicons.dev/icons?i=py" alt="python" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" alt="keras" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=selenium" alt="selenium" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=qt" alt="qt" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=gtk" alt="gtk" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=php" alt="php" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="32" height="32"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="mssql" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="32" height="32"/> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=visualstudio" alt="visualstudio" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=emacs" alt="emacs" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=cmake" alt="cmake" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=powershell" alt="powershell" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=latex" alt="latex" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="32" height="32"/> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="32" height="32"/>
 
 ## Education
 
